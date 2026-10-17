@@ -1,2 +1,2 @@
 # LinuxTerminus
-IBM Datathon 2026 - LinuxTerminus team project repo.
+linuxterminus_IBM-Z-Datathon-2026-Project
